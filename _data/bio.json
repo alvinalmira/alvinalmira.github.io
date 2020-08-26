@@ -1,92 +1,65 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Alvin Almira",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://alvinalmira.github.io/template/images/molly.png",
+    "email": "aalmira@hawaii.edu",
+    "phone": "",
+    "website": "https://alvinalmira.github.io",
+    "summary": "I am studying for a BBA in Accounting in the Shidler College Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96931",
+      "city": "Tamuning",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Guam"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "alvinalmira",
+        "url": "http://github.com/alvinalmira"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "alvinalmira",
+        "url": "http://linkedin.com/in/alvin-almira"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Technology",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Gaming",
       "keywords": [
       ]
-    }
+    },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Typing",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "QWERTY"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Photoshop",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting (expected Spring, 2022)",
+      "studyType": "BBA",
+      "startDate": "2018-09-23",
       "endDate": "Present",
       "gpa": "",
       "courses": [
