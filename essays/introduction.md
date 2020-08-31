@@ -8,7 +8,7 @@ labels:
   - MIS
 ---
 
-My name is Alvin Almira, and I am a curious person. I am a an undergraduate majoring in Accounting 
+My name is Alvin Almira, and I am a curious person. I am an undergraduate majoring in Accounting. 
 
 Why am I taking an MIS course if I am not an MIS major or minor? I'm taking ITM352 to dip my brain into the realm of coding and understanding technology on a level deeper than a regular consumer. Technology is evolving every year, and I want to know the behind the scenes that runs technology. Understanding how technology works will be an important skill for the generations to come, so I might as well get comfortable. 
 
