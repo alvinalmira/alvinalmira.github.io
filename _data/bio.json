@@ -53,8 +53,8 @@
       ]
     },
     {
-      "name": "Photoshop",
-      "level": "",
+      "name": "Adobe",
+      "level": "Photoshop",
       "keywords": [
       ]
     }
@@ -83,17 +83,6 @@
         ""
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
   ],
   "volunteer": [
     {
@@ -117,20 +106,6 @@
       "highlights": [
         ""
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
