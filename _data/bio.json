@@ -42,7 +42,10 @@
       "name": "Anime",
       "keywords": [
         ]
-    }
+    },
+    {
+      "name": "Music",
+      "keywords": "Lo-Fi"
   ],
   "skills": [
     {
@@ -50,12 +53,6 @@
       "level": "",
       "keywords": [
         "QWERTY"
-      ]
-    },
-    {
-      "name": "Adobe",
-      "level": "Photoshop",
-      "keywords": [
       ]
     }
   ],
@@ -73,12 +70,23 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Grab n Grub",
+      "position": "Driver",
+      "website": "grabngrub.com",
+      "startDate": "07-24-2020",
+      "endDate": "Present",
+      "summary": "My position as a driver is to safely retrieve and deliver food to a customer in a timely manner.",
+      "highlights": [
+        ""
+      ]
+    },
+     {
+      "company": "Cutco",
+      "position": "Sales associate",
+      "website": "cutco.com",
+      "startDate": "06-10-2019",
+      "endDate": "08-10-2019",
+      "summary": "As a sales associate for cutco, I schedule product demonstrations with possible customers and aid customers in securing their new cutlery set.",
       "highlights": [
         ""
       ]
