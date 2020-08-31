@@ -51,24 +51,7 @@
     {
       "name": "Breath work",
       "keywords": [
-    "Wim Hof, Buteyko, Diaphramatic"
         ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Typing",
-      "level": "",
-      "keywords": [
-        "QWERTY"
-      ]
-    },
-    {
-      "name": "Excel",
-      "level": "",
-      "keywords": [
-        ""
-      ]
     }
   ],
   "education": [
@@ -88,7 +71,7 @@
       "company": "Grab n Grub",
       "position": "Driver",
       "website": "grabngrub.com",
-      "startDate": "07-24-2020",
+      "startDate": "2020-07-24",
       "endDate": "Present",
       "summary": "My position as a driver is to safely retrieve and deliver food to a customer in a timely manner.",
       "highlights": [
@@ -100,11 +83,10 @@
       "company": "Cutco",
       "position": "Sales associate",
       "website": "cutco.com",
-      "startDate": "06-10-2019",
-      "endDate": "08-10-2019",
+      "startDate": "2019-06-10",
+      "endDate": "2019-08-10",
       "summary": "As a sales associate for cutco, I schedule product demonstrations with customers and aid customers in securing their new cutlery set if they choose to do so.",
       "highlights": [
-        ""
       ]
     }
    ],
