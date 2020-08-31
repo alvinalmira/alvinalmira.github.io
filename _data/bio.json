@@ -45,7 +45,8 @@
     },
     {
       "name": "Music",
-      "keywords": "Lo-Fi"
+      "keywords": ["Lo-Fi"
+                   ]
   ],
   "skills": [
     {
