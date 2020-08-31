@@ -45,8 +45,15 @@
     },
     {
       "name": "Music",
-      "keywords": ["Lo-Fi"
-                   ]
+      "keywords": [
+        ]
+    }
+    {
+      "name": "Breath Work",
+      "keywords": [
+    "Wim Hof breathing method, Buteyko breathing method, Diaphramatic breathing"
+        ]
+    }
   ],
   "skills": [
     {
@@ -54,6 +61,11 @@
       "level": "",
       "keywords": [
         "QWERTY"
+      ]
+      "name": "Excel",
+      "level": "",
+      "keywords": [
+        ""
       ]
     }
   ],
@@ -78,7 +90,8 @@
       "endDate": "Present",
       "summary": "My position as a driver is to safely retrieve and deliver food to a customer in a timely manner.",
       "highlights": [
-        ""
+        "Wearing safety PPE and sanitzing to prevent any chances of transmitting CoVid-19"
+        "Notify management when there is a problem"
       ]
     },
      {
@@ -87,35 +100,11 @@
       "website": "cutco.com",
       "startDate": "06-10-2019",
       "endDate": "08-10-2019",
-      "summary": "As a sales associate for cutco, I schedule product demonstrations with possible customers and aid customers in securing their new cutlery set.",
+      "summary": "As a sales associate for cutco, I schedule product demonstrations with customers and aid customers in securing their new cutlery set if they choose to do so.",
       "highlights": [
         ""
       ]
     },
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
   ],
   "references": [
     {
