@@ -16,6 +16,6 @@ As a kid, I would always carry my gameboy advanced wherever I went. I would be p
 
 But, I never took the first steps into coding until this year. 
 
-By taking ITM352, I am taking my first steps towards learning what goes into making software. There are a lot of things that I do not know. But by the end of this semester after all the struggles and countless hours staring at my screen, I would want know much more than the basics. I want to be able to make technology work for me the way I want it to. 
+By taking ITM352, I am taking my first steps towards learning what goes into making technology work. There are a lot of things that I do not know. But by the end of this semester after all the struggles and countless hours staring at my screen, I would want know much more than the basics. I want to be able to make technology work for me the way I want it to. 
 
-- Side note: I want to be able to grow old and school my grand children in the realms of technology. -
+- Side note: I want to be able to grow old and school my grand children in the realms of technology. 
