@@ -9,7 +9,6 @@ labels:
 ---
 
 My sleepiness in the morning is the cause of my lack for major progress. 
-
 1. From the beginning of the course to the current day, I feel that my understanding of programming is above average. Generally speaking, my understanding of what works and does not work is at an okay level. There aren’t any specific aspects of programming that I would say that I have greatly improved in, but I’ve gained a better grasp of programming.
 
 2. Overall, I need to improve my technical skills. I tend to get a bit irritated when I try something and it doesn’t work. I refer to too many videos on youtube for help, but I feel that starting on a black slate and just doing what I’m having trouble with will help me. Like server side processing and implementation of code in an HTML page. I struggle with assignment1, and I’m still struggling with understanding algorithms.
