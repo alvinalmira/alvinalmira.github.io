@@ -6,6 +6,7 @@ date: 2020-12-01
 labels:
   - Assignment 2
   - Insight
+  - Reflection
 ---
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details <br>
