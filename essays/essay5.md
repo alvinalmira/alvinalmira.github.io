@@ -1,4 +1,4 @@
----
+--
 layout: essay
 type: essay
 title: E5: Reflecting on Assignment 2 Technical Essay
@@ -7,7 +7,7 @@ labels:
   - Assignment 2
   - Insight
   - Reflection
----
+--
 
 1. Provide a brief introduction to the assignment along with a link to this page for further details <br>
         — In this <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html">Technical Essay</a>, I will talk about <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">Assignment 2</a>. Assignment 2 is about upgrading our Assignment 1 website by adding user login and registration forms before getting to the invoice and preventing users from getting to the invoice if they haven’t logged in yet. The login and registration forms would need to validate user information—such as making sure the name only contains letters— and preventing users from registering with an already registered username. The site would also need to be more personable to the user that is logged in. Assignment 2 is also a way for us to fix any errors we had in Assignment 1. <br><br>
