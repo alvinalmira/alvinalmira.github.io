@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: E5: Reflecting on Assignment 2 Technical Essay
 date: 2020-12-01
-lables:
+labels:
   - Assignment 2
   - Insight
 ---
