@@ -12,7 +12,7 @@ labels:
 1. Provide a brief introduction to the assignment along with a link to this page for further details<br>
 
 -Assignment 3 focuses on implementing cookies and sessions on a website. By adding those two, users who visit will be able to shop at their leisure. This assignment is an upgrade to the previous website created; new features and functionality such as a shopping cart that stores individual products and the quantity a user wants to purchase.
-<a href=”https://dport96.github.io/ITM352/morea/180.Assignment3/experience-Assignment3.html”>More details can be found here</a> <br>
+<a href="https://dport96.github.io/ITM352/morea/180.Assignment3/experience-Assignment3.html">More details can be found here</a> <br>
 
 2. What did you learn from this assignment?<br>
 -Assignment 3 taught me various things. The first lesson is creating cookies and how cookies work in favor of the site and the user; this means that the cookie will help the site identify the user, and the user will be able to have an easy experience while browsing the site for products. The second is that web developers have it super hard; troubleshooting errors and trying to find where a problem originates from is time consuming. Sometimes, the errors stem from an extra character or misspelling 1 element. Maintaining a server and generating a website is very tedious and details must be closely examined.<br>
