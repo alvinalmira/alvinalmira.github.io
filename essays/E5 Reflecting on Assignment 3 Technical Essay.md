@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: E5 Reflecting on Assignment 3 Technical Essay
+date: 2020-12-18
+labels:
+  - Assignment3
+  - Insight
+  - Reflection
+---
+
 1. Provide a brief introduction to the assignment along with a link to this page for further details<br>
 
 -Assignment 3 focuses on implementing cookies and sessions on a website. By adding those two, users who visit will be able to shop at their leisure. This assignment is an upgrade to the previous website created; new features and functionality such as a shopping cart that stores individual products and the quantity a user wants to purchase.
